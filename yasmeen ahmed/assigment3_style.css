@@ -1,0 +1,661 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    
+    
+    
+}
+
+
+ .Home{
+        height: 800px;
+        background-image: url(images/business-2.jpg) ;
+        background-size: 100% 100%;
+
+        filter:brightness(40%);
+   
+    
+ }
+.Contact{
+    color: black;
+    background-color: white;
+    
+    
+    border-style:outset;
+    padding:20px 20px;
+
+    
+    
+}
+ .E{
+    border-radius: 50%;
+   padding: 15px;
+  background: #fff;
+  border: 2px solid #666;
+  color: #666;
+  
+  
+    
+    
+    
+}
+
+
+.Engage ul{
+    
+    padding-top: 40px;
+    
+    
+    
+}
+
+.Engage ul li{
+    
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 40px;
+    padding: 10px 0px;
+    float: right;
+    
+   
+    
+    
+}
+.Engage ul li a{
+    
+    text-decoration: none;
+    font-size: 15px;
+    font-family:sans-serif;
+   color: #ffffff;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+
+.Pragraph h2{
+    font-size: 20px;
+    font-family:inherit;
+
+     width: 100%;
+     margin: auto;
+    text-align: center;
+   
+    margin: auto;
+    margin-top: 240px;
+}
+.Pragraph p{
+    
+     width: 100%;
+     font-size: 50px;
+     font-family:inherit;
+     text-align: center;
+   
+    margin: auto;
+    margin-top: 50px;
+}
+.Pragraph button{
+    
+    width:150px;
+    font-family:inherit;
+    
+     margin-left: 45%;
+    margin-right: 50px;
+     border: 2px solid transparent;
+      height: 50px;
+    background-color: #4caf50;
+    color: white;
+    margin-top:50px;
+    
+}
+
+.icon{
+    
+    width: 15%;
+    display: inline-block;
+    padding-left: 150px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+
+
+.icon img{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-right: 15px;
+}
+.icon h3{
+    
+    float: right;
+    color: #303030;
+    
+}
+
+.icon p{
+    
+    float: right;
+    margin-left: 70px;
+    color: #888;
+    font-size: 16px;
+
+}
+.Our-servise{
+    
+    width: 100%;
+    height: 800px;
+    background-color:rgb(248, 248, 248);
+    
+    
+}
+.Our-servise h2{
+    
+    
+color:rgb(48, 48, 48);
+
+font-family:"Open Sans", arial;
+font-size:36px;
+font-weight:400;
+width: 100%;
+ margin: auto;
+text-align: center;
+padding-top: 70px;    
+   
+}
+.Our-servise p{
+color: #888;
+font-family:"Open Sans", arial;
+font-size:20px;
+font-weight:400;
+width: 100%;
+ margin: auto;
+text-align: center;
+    
+ padding-top: 30px; 
+    
+}
+.Our-servise div{
+    
+    
+    height: 520px;
+    background-color: white;
+    margin: auto;
+    margin-left: 60px;
+    margin-top: 30px;
+    width:25.33333%;
+    height: 500px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.Our-servise img{
+    width:100%;
+    
+    
+}
+.Our-servise h6{
+color: #303030;
+
+cursor:pointer;
+font-family: 'Open Sans',arial;
+    
+font-size:19px;
+    
+
+}
+
+
+.Member h6{
+    
+ width: 100%;
+ margin: auto;
+ text-align: left;    
+padding-left: 20px;
+padding-top: 20px;    
+    
+}
+
+.Member p{
+    
+    margin: auto;
+   
+    text-align: center;
+    
+   padding-top: 20px;   
+}
+
+.Member a{
+    
+    
+color:rgb(76, 175, 80);
+cursor:pointer;
+
+font-family:"Open Sans", arial;
+font-size:15px;
+
+text-decoration: none;
+padding-top: 40px;  
+text-align: left;    
+    
+    
+}
+
+.Secret{
+    
+    height: 900px;
+    margin-top: 60px;
+    
+    
+}
+
+.Secret h2{
+    
+color:rgb(48, 48, 48);
+font-family:"Open Sans", arial;
+font-size:30px;
+font-weight:100;
+padding-left: 70px; 
+padding-top: 120px;    
+    
+}
+.Rigth{
+    
+   
+    width: 50%;
+    float: left;
+    
+}
+.Rigth p{
+    
+color:rgb(104, 104, 104);
+font-family:"Open Sans", arial;
+font-size:15px;
+font-weight:400;
+padding-left: 70px; 
+padding-top: 30px;    
+    
+}
+.Rigth img{
+    
+    width: 40px;
+    height: 60px;
+    padding-left: 70px;
+    padding-top: 20px;
+    margin-top: 30px;
+    
+}
+
+
+
+.Rigth li{
+    
+    display: inline-block;
+    
+}
+
+.Rigth button{
+    
+color:rgb(255, 255, 255);
+cursor:pointer;
+font-family:"Open Sans", arial;
+font-size:12px;
+font-weight:900;
+height:50px;
+width: 110px;    
+background-color: #4caf50;
+margin-left: 80px; 
+margin-top: 50px;    
+
+    
+}
+
+.Left{
+    
+   
+    width: 50%;
+    float: right;
+    
+}
+.Left img{
+    width: 600px;
+    height: 500px;
+    
+    
+    
+}
+.Apple{
+    
+    width:100%;
+    height: 500px;
+    background-color:rgb(248, 248, 248);
+    margin: auto;
+     
+    
+}
+.Apple img{
+    text-align: center;
+    width: 125px;
+    height: 125px;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+.Scrol{
+   height: 520px;
+    background-color: white;
+    margin: auto;
+    margin-left: 60px;
+    margin-top: 30px;
+    width:25.33333%;
+    height: 200px;
+    text-align: center;
+      display: inline-block;
+    
+}
+.Scrol p{
+    
+    
+color:darkgray;
+font-family:"Open Sans", arial;
+font-size:20px;
+padding-left: 20px; 
+padding-top: 10px;  
+font-weight: 400;  
+ display: inline-block;
+}
+
+.Scrol h3{
+color:rgb(104, 104, 104);
+display:block;
+font-family:"Open Sans", arial;
+font-size:15px;
+font-weight:300;
+}
+.Scrol h4{
+    
+color:rgb(104, 104, 104);
+
+font-family:"Open Sans", arial;
+font-size:15px;
+font-weight:400;
+margin-top: 20px;        
+        
+
+}
+
+.Additional{
+    
+    
+    height: 500px;
+    background-image: url(images/Additional.jpg);
+    filter:brightness(80%);
+    
+}
+
+.Additional h2{
+
+
+color:rgb(255, 255, 255);
+display:block;
+font-family:"Open Sans", arial;
+font-size:22.5px;
+font-weight:600;
+width: 100%;
+ margin: auto;
+text-align: center;
+   
+   padding-top: 90px;
+   
+
+}
+
+.Additional p{
+
+
+color:rgb(255, 255, 255);
+display:block;
+font-family:"Open Sans", arial;
+font-size:18.5px;
+font-weight:600;
+width: 100%;
+ margin: auto;
+text-align: center;
+   
+   padding-top: 20px;
+   
+
+}
+
+
+.Additional button {width:150px;
+    font-family:inherit;
+    
+     margin-left: 45%;
+    margin-right: 50px;
+     border: 2px solid transparent;
+      height: 50px;
+    background-color: #4caf50;
+    color: white;
+    margin-top:50px;
+    }
+
+.Other-services h2{
+    
+    
+color:rgb(48, 48, 48);
+
+font-family:"Open Sans", arial;
+font-size:36px;
+font-weight:400;
+width: 100%;
+ margin: auto;
+text-align: center;
+padding-top: 70px;    
+   
+}
+.Other-services p{
+color: #888;
+font-family:"Open Sans", arial;
+font-size:20px;
+font-weight:400;
+width: 100%;
+ margin: auto;
+text-align: center;
+    
+ padding-top: 30px; 
+    
+}
+.Two-parts{
+    
+    
+    height: 520px;
+    background-color: white;
+    margin: auto;
+    margin-left: 60px;
+    margin-top: 60px;
+    width:25.33333%;
+    height: 500px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.Two-parts p{
+    
+    
+text-align: left;    
+font-size: 16px;    
+    
+}
+.Two-parts h4{
+    
+    
+color:rgb(48, 48, 48);
+display:block;
+font-family:"Open Sans", arial;
+font-size:18px;
+font-weight:300;
+text-align: left;
+    
+    
+    
+}
+
+
+.Logo{
+    
+    width: 100%;
+    height: 200px;
+     background-color:rgb(248, 248, 248);
+    
+    
+    
+}
+.Logo img{
+    width: 15%;
+    display: inline-block;
+    padding-left: 40px;
+    
+    
+    
+}
+.Green-tail{
+    
+     width: 100%;
+    height: 200px;
+     background-color:#4caf50;
+    
+    
+}
+
+.Green-tail h1{
+    
+color:rgb(255, 255, 255);
+padding-top: 80px;
+padding-left: 50px;    
+    
+font-family:"Open Sans", arial;
+font-size:32px;
+font-weight:400;
+    
+    
+}
+.Green-tail h3{
+    
+color:rgba(255, 255, 255, 0.82);
+padding-top: 10px;
+padding-left: 50px;    
+font-family:"Open Sans", arial;
+font-size:20px;
+font-style:normal;
+font-weight:400;
+    
+}
+.Green-tail button{
+    
+    
+    width:150px;
+    font-family:inherit;
+    float: right;
+    background-color: #fff;
+    color: #121212!important;
+    cursor: pointer;
+    margin-top: -50px;
+    margin-right: 50px;
+     border: 2px solid transparent;
+      height: 50px;
+    font-weight: 400;
+    
+    
+}
+
+.Black-tail{
+    
+    width: 100%;
+    height: 300px;
+    background-color:#1f2021;
+    
+    
+    
+}
+
+.B{
+     width: 20%;
+    display: inline-block;
+    margin:auto;
+    margin-left: 40px;
+    
+}
+.B h3{
+    
+color:rgb(255, 255, 255);
+
+font-family:"Open Sans", arial;
+font-size:17px;
+font-weight:400;
+margin-left: 50px;
+margin-top: 40px;
+     
+}
+
+.B p,li{
+color:rgb(88, 96, 107);
+
+font-family:"Open Sans", arial;
+font-size:14px;
+font-weight:400;
+margin-top: 60px;
+margin-left: 50px;    
+
+    
+
+}
+.B ul{
+
+    list-style-type: none;
+    
+    
+}
+
+.B li{
+ padding-top:0px;
+    margin: 10px;
+    
+}
+.B li a{
+    text-decoration: none;
+    
+    color:rgb(88, 96, 107);
+
+    
+}
+
+.Tail{
+    
+    width: 100%;
+    height: 70px;
+    background-color:black;
+    
+    
+    
+}
+.Tail h3{
+    
+    
+    padding-top: 30px;
+    padding-left: 60px;
+color:rgb(88, 96, 107);
+font-family:"Open Sans", arial;
+font-size:15px;
+font-weight:400;
+
+}
+
+
+
+
+
+
